@@ -153,8 +153,8 @@ export class CalendarComponent implements ControlValueAccessor, OnInit {
       this._compatibleIcons = {
         caretDown: 'md-arrow-dropdown',
         caretUp: 'md-arrow-dropup',
-        chevronBack: 'ios-arrow-back',
-        chevronForward: 'ios-arrow-forward',
+        chevronBack: 'arrow-back-outline',
+        chevronForward: 'arrow-forward-outline',
       };
     } else {
       this._compatibleIcons = {
