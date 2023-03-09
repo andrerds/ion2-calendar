@@ -1,5 +1,5 @@
 {
-  "name": "ion2-calendar_",
+  "name": "ionic-calendar-datepicker-range",
   "version": "3.5.1",
   "description": "A date picker component for ionic2 ",
   "main": "./dist/index.js",
